@@ -6,8 +6,6 @@
 :icons: font
 :source-highlighter: prettify
 
-https://spring.io/guides/gs/rest-service/
-
 This guide walks you through the process of creating a "hello world" link:/understanding/REST[RESTful web service] with Spring.
 
 == What you'll build

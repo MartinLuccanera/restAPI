@@ -1,0 +1,14 @@
+BaseApp
+https://spring.io/guides/gs/rest-service/
+
+Postgre connection
+http://www.postgresqltutorial.com/postgresql-jdbc/connecting-to-postgresql-database/
+
+RequestMapping
+https://www.journaldev.com/3358/spring-requestmapping-requestparam-pathvariable-example
+
+JSON and Java
+https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java
+
+Get JSON payload from POST request
+https://stackoverflow.com/questions/14525982/getting-request-payload-from-post-request-in-java-servlet
